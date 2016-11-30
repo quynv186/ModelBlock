@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>item1</key>
+	<dict>
+		<key>name</key>
+		<string>ADRIANA LIMA</string>
+		<key>image</key>
+		<string>https://dm.victoriassecret.com/imagefeatures/0x0/1267500077617/vsaa-dsktp-adp-main-image-adriana.jpg</string>
+		<key>measure</key>
+		<string>100 - 40 - 100</string>
+	</dict>
+	<key>item2</key>
+	<dict>
+		<key>name</key>
+		<string>BEHATI PRINSLOO</string>
+		<key>image</key>
+		<string>https://dm.victoriassecret.com/imagefeatures/0x0/1267500165821/vsaa-dsktp-adp-main-image-behati-1.jpg</string>
+		<key>measure</key>
+		<string>90 - 60 - 90</string>
+	</dict>
+	<key>item3</key>
+	<dict>
+		<key>name</key>
+		<string>CANDICE SWANEPOEL</string>
+		<key>image</key>
+		<string>https://dm.victoriassecret.com/imagefeatures/0x0/1267500596766/vsaa-dsktp-adp-main-image-candice.jpg</string>
+		<key>measure</key>
+		<string>95 - 62 -96</string>
+	</dict>
+	<key>item4</key>
+	<dict>
+		<key>name</key>
+		<string>ROMEE STRIJD</string>
+		<key>image</key>
+		<string>https://dm.victoriassecret.com/imagefeatures/0x0/1267500863554/vsaa-dsktp-adp-main-image-romee.jpg</string>
+		<key>measure</key>
+		<string>92 - 63 - 95</string>
+	</dict>
+	<key>item5</key>
+	<dict>
+		<key>name</key>
+		<string>TAYLOR HILL</string>
+		<key>image</key>
+		<string>https://dm.victoriassecret.com/imagefeatures/0x0/1267494801587/vsaa-dsktp-adp-main-image-taylor.jpg</string>
+		<key>measure</key>
+		<string>91 - 61 - 93</string>
+	</dict>
+</dict>
+</plist>
